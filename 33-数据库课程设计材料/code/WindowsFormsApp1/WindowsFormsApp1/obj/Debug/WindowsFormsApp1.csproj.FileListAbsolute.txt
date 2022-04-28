@@ -1,0 +1,17 @@
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.teacher.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.teacher2.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student1.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student3.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.teacher1.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student2.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\学生作业管理系统.Properties.Resources.resources
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\学生作业管理系统.exe.config
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\学生作业管理系统.exe
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\学生作业管理系统.pdb
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\学生作业管理系统.exe
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\学生作业管理系统.pdb
+C:\Users\14420\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
